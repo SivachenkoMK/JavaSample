@@ -1,6 +1,8 @@
-# E-Commerce Domain Model: README
+![diagram](https://github.com/user-attachments/assets/7a93ce22-4be9-4b1a-9d4b-83b24fef65e8)
 
-Below is a **simple** overview of our E-Commerce domain model. Each bullet point gives a quick explanation of the core classes and their roles. It will help you understand the overall structure without diving into too much detail.
+# E-Commerce Domain Model
+
+Below is a **simple** overview of the E-Commerce domain model. Each bullet point gives a quick explanation of the core classes and their roles.
 
 ---
 
@@ -30,7 +32,7 @@ Below is a **simple** overview of our E-Commerce domain model. Each bullet point
 
 ### **Category**
 - Groups **Products** under a common label (e.g., “Electronics,” “Clothing,” “Food”).
-- Lets you add or remove products from a category.
+- Allows to add or remove products from a category.
 - Could be useful for search purposes, however in this demo there is no particular usage
 
 ### **Customer**
